@@ -1,4 +1,4 @@
-# FAKE PORTFOLIO
+# DARK MODE
 _This project is the 2nd out of my "30 Days of JavaScript projects" personal challenge._
 
 
